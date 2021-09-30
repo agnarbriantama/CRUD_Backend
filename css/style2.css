@@ -1,0 +1,21 @@
+body {
+	background-image: url(https://www.6k7l.com/wp-content/uploads/2014/04/bokeh-cover-bg.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+form {
+	width: 500px;
+	border: 2px solid #ccc;
+	padding: 30px;
+	background-color: silver;
+	border-radius: 15px;
+}
